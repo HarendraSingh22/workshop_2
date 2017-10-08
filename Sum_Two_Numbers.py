@@ -1,3 +1,5 @@
-a=input("Input a number -->")
-b=input("Input a number -->")
-print a+b
+a=input("Input a number -->")#input prompt
+
+b=input("Input a number -->")#input prompt
+
+print a+b #Directly calculating and outputting the sum
